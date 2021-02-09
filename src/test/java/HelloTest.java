@@ -8,6 +8,9 @@ public class HelloTest {
 
         //proje
         //proje
+
+       //ADDED BUILD PLUGIN
+
     }
 
 }
