@@ -1,0 +1,2 @@
+public class ALITALHA {
+}
